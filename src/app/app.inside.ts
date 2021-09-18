@@ -5,12 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.hello.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
+export class INSIDE {
   title = 'yi-ting is cute but .....';
-
+  hello ='yi-ting, please wake up!!!'
 }
-
-// export class INSIDE {
-
-//   hello ='yi-ting, please wake up!!!'
-// }
